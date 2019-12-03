@@ -6,8 +6,10 @@ description: Meeting notes from the November Club meeting
 featuredpost: true
 featuredimage: /img/img_9654.jpg
 tags:
-  - flavor
-  - tasting
+  - SCUBA
+  - November
+  - Meeting
+  - Notes
 ---
 ![Meeting](/img/img_9654.jpg)
 
