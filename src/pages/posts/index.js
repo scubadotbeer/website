@@ -21,7 +21,7 @@ export default class PostIndexPage extends React.Component {
               padding: '1rem',
             }}
           >
-            Latest Stories
+            Latest Posts
           </h1>
         </div>
         <section className="section">
