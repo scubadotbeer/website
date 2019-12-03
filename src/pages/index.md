@@ -2,12 +2,12 @@
 templateKey: index-page
 title: South Carolina Brewers Anonymous Homebrewing Club
 image: /img/img_6818.jpg
-heading: 'Education, community and great beer!'
-subheading: Great beer and great friends
+heading: Join us at our next meeting!
+subheading: 'Education, community and great beer!'
 mainpitch:
   title: Who is SCUBA
   description: >
-    We're a group of likeminded brewers who are passionate about brewing,
+    We're a group of like-minded brewers who are passionate about brewing,
     tasting and sharing great beer.  We hold monthly meetings and competitions
     on the 2nd Thursday of each month at Grape and Grains, 104 Mauldin Rd Ste.
     A, Greenville, SC 29605. 
