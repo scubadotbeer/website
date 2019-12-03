@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import { graphql } from 'gatsby';
 import Layout from '../components/Layout';
 import Features from '../components/Features';
-import PreviewCompatibleImage from '../components/PreviewCompatibleImage';
 
 export const RecipesPageTemplate = ({
   image,
@@ -12,9 +11,7 @@ export const RecipesPageTemplate = ({
   description,
   intro,
   main,
-  testimonials,
   fullImage,
-  pricing,
 }) => (
   <div className='content'>
     <div
@@ -58,19 +55,12 @@ export const RecipesPageTemplate = ({
                   <div className='tile'>
                     <div className='tile is-parent is-vertical'>
                       <article className='tile is-child'>
-                        <PreviewCompatibleImage imageInfo={main.image1} />
                       </article>
                     </div>
                     <div className='tile is-parent'>
                       <article className='tile is-child'>
-                        <PreviewCompatibleImage imageInfo={main.image2} />
                       </article>
                     </div>
-                  </div>
-                  <div className='tile is-parent'>
-                    <article className='tile is-child'>
-                      <PreviewCompatibleImage imageInfo={main.image3} />
-                    </article>
                   </div>
                 </div>
               </div>
@@ -105,7 +95,6 @@ RecipesPageTemplate.propTypes = {
     description: PropTypes.string,
     image1: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
     image2: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
-    image3: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   }),
   fullImage: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
 };
@@ -122,9 +111,7 @@ const RecipesPage = ({ data }) => {
         description={frontmatter.description}
         intro={frontmatter.intro}
         main={frontmatter.main}
-        testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
-        pricing={frontmatter.pricing}
       />
     </Layout>
   );
