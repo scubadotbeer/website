@@ -9,9 +9,9 @@ tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Meeting](/img/img_9654.jpg)
 
-ad excellent turnout for our Thanksgiving holiday party, big thanks to Christy Gillespie and Bill Fox for coordinating the event and John for the turkey.  After we all had gotten our food we had a short meeting consisting of the following.
+We had an excellent turnout for our Thanksgiving holiday party, big thanks to Christy Gillespie and Bill Fox for coordinating the event and John for the turkey.  After we all had gotten our food we had a short meeting consisting of the following.
 
 
 
