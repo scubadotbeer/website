@@ -3,7 +3,7 @@ templateKey: index-page
 title: South Carolina Brewers Anonymous Homebrewing Club
 image: /img/img_6818.jpg
 heading: 'Education, community and great beer!'
-subheading: Support sustainable farming while enjoying a cup
+subheading: Great beer and great friends
 mainpitch:
   title: Who is SCUBA
   description: >
@@ -16,14 +16,7 @@ description: >-
   your lastest batch or enjoying talking with friends about your favorite
   beverage.
 intro:
-  blurbs:
-    - image: /img/img_6816.jpg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+  blurbs: []
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
