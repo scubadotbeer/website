@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: recipes-page
 title: Our Recipes
 image: /img/img_6816.jpg
 heading: Favorite user submitted recipes
