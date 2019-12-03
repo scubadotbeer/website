@@ -60,16 +60,6 @@ main:
     Every year we hold our last brewer standing competition where participants
     draw to go head to head against each other in a given style.  Below are the
     results of our 2019 competition.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials: []
 full_image: /img/img_1193.jpg
 pricing:
   heading: Competition Details
