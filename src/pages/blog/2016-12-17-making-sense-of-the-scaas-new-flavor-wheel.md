@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: November Meeting Notes
 date: 2016-11-18T03:04:00.000Z
-description: Meeting notes from the October Club meeting
-featuredpost: false
+description: Meeting notes from the November Club meeting
+featuredpost: true
 featuredimage: /img/img_9654.jpg
 tags:
   - flavor
