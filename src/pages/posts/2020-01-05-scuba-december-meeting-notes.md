@@ -1,5 +1,5 @@
 ---
-templateKey: blog-post
+templateKey: post
 title: December Meeting Notes
 date: 2020-01-05T19:21:34.231Z
 description: Meeting Notes the December SCUBA Meeting and potluck.
