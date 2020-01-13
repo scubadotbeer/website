@@ -44,7 +44,7 @@ II.	Ingredients:
 
 \    ii.	For Extract Brewers (either LME or DME):
 
-\    1.	Munich
+\    1.    Munich
 
 \    2.	Sparkling Amber
 
@@ -118,7 +118,7 @@ II.	Ingredients:
 
 \    e.	candi sugars
 
-\    f.   honey
+\    f.          honey
 
 \    g.	coffee
 
