@@ -12,6 +12,6 @@ tags:
 ---
 Evan Daigle gave a great presentation on 2/13 about different types of coffee, and how to add it to our beer.  Click below for the slides (including speaker notes) in powerpoint and open office format
 
-Power Point: <https://drive.google.com/file/d/1n_CCqWYqLLknV3rUTXnarq6HDwrmgRoy/view?usp=sharing>
+Power Point: <https://tinyurl.com/wd4fa3y>
 
-ODP: <https://drive.google.com/file/d/1C97pwfQUHkpcxQabvJ6pQNAMjS4VbKUy/view?usp=sharing>
+ODP: <https://tinyurl.com/rkxstv7>
