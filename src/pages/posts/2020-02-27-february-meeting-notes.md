@@ -44,7 +44,7 @@ Party Time-Jim Baxter and Cathline will be putting together a (what the hell it'
 Fireforge Brewer is hosting a Big Brew day on May 2nd if you would like to bring your equipment and brew with them.  They are located at  311 E Washington St, Greenville, SC 29601.
 
 ## Social Media/Website
-If you haven't visited it yet Andrew Thompson is doing an outstanding job with the website http://suba.beer
+If you haven't visited it yet Andrew Thompson is doing an outstanding job with the website http://scuba.beer
 If you participated in Last Brewer Standing and won please send your recipes to andrew@scuba.beer or competition@scuba.beer to have them posted.
 We would like the recipes from this year's event too
 If you haven't paid your dues yet it is $15 (until June then $30) and you can pay via PayPal by sending dues to scupstatebrewers@gmail.com.  You can also pay Christy Gillespie at any of the meetings as well.  
