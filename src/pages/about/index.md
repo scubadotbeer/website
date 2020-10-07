@@ -11,16 +11,6 @@ title: About our club
 * Social Chair - Andrew Lechowicz
 * Webmaster - Andrew Thompson
 
-
-
-### Club Charter
-
-The purpose of the club is to 
-
-1. One
-2. Two
-3. Three
-
 ### Club Dues
 
 $30 annually which pays for a club t-shirt, allows the club to sponsor events and continue operations.
